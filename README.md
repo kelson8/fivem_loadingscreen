@@ -5,6 +5,10 @@ Loading screen with added features:
 - Show current playing song name on the loading screen.
 - Footer text (the place where usually your server's discord link goes).
 - Shows real world time on the loading screen.
+
+New info
+- I added the ability to toggle between 12h and 24h time.
+- I have removed the music ability since it didn't seem to work and I'll need to find copyright free songs for the server.
 ## Requirements
 No previous requirements are needed. Just install this resource and you are good to go!
 ## Downloading
